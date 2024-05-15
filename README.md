@@ -1,16 +1,17 @@
-### Hi there 👋
+Graduando em Ciência de Dados e Inteligência Artificial (5º período) pela Universidade Federal da Paraíba
 
-<!--
-**clxxxy/clxxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- - - - -
 
-Here are some ideas to get you started:
+» Data Science e Análise de Dados em Python e R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» Básico de front-end em HTML/CSS/JS
+
+» Desenvolvimento de dashboards em PowerBI com tratamento de dados pelo PowerQuery
+
+» Conhecimento em Excel e DAX
+
+- - - - -
+
+» Design gráfico avançado em Photoshop há +6 anos
+
+» Produção musical com FL Studio há +4 anos
