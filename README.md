@@ -15,3 +15,9 @@ Graduando em Ciência de Dados e Inteligência Artificial (5º período) pela Un
 » Design gráfico avançado em Photoshop há +6 anos
 
 » Produção musical com FL Studio há +4 anos
+
+- - - - -
+
+Trabalhos publicados:
+
+[Assessing the Psychological Impact of Generative AI on Computer and Data Science Education: An Exploratory Study](https://www.preprints.org/manuscript/202312.0379/v2)
