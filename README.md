@@ -4,11 +4,11 @@ Graduando em Ciência de Dados e Inteligência Artificial (5º período) pela Un
 
 » Data Science e Análise de Dados em Python e R
 
-» Básico de front-end em HTML/CSS/JS
-
 » Desenvolvimento de dashboards em PowerBI com tratamento de dados pelo PowerQuery
 
 » Conhecimento em Excel e DAX
+
+» Básico de front-end em HTML/CSS/JS
 
 - - - - -
 
