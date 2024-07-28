@@ -20,4 +20,6 @@ Graduando em Ciência de Dados e Inteligência Artificial (5º período) pela Un
 
 Trabalhos publicados:
 
-[Assessing the Psychological Impact of Generative AI on Computer and Data Science Education: An Exploratory Study](https://www.preprints.org/manuscript/202312.0379/v2)
+- [Surveying the Future of Computer and Data Science Education - Prospects and Pitfalls of Generative AI on Pedagogical Approaches](https://sol.sbc.org.br/index.php/wei/article/view/29652)
+
+- [Assessing the Psychological Impact of Generative AI on Computer and Data Science Education: An Exploratory Study](https://www.preprints.org/manuscript/202312.0379/v2)
