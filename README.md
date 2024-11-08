@@ -1,4 +1,4 @@
-Graduando em Ciência de Dados e Inteligência Artificial (5º período) pela Universidade Federal da Paraíba
+Graduando em Ciência de Dados e Inteligência Artificial (6º período) pela Universidade Federal da Paraíba
 
 - - - - -
 
