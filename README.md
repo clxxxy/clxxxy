@@ -2,7 +2,9 @@ Graduando em Ciência de Dados e Inteligência Artificial (6º período) pela Un
 
 - - - - -
 
-» Data Science e Análise de Dados em Python e R
+» Análise, tratamento e visualização de dados em Python, SQL e R
+
+» Atualmente, focando no aprendizado de técnicas de machine learning e deeplearning
 
 » Desenvolvimento de dashboards em PowerBI com tratamento de dados pelo PowerQuery
 
