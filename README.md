@@ -2,21 +2,21 @@ Graduando em Ciência de Dados e Inteligência Artificial (6º período) pela Un
 
 - - - - -
 
-» Análise, tratamento e visualização de dados em Python, SQL e R
+» Extração, análise e tratamento de dados com Python e R
 
-» Atualmente, focando no aprendizado de técnicas de machine learning e deeplearning
+» Visualização de dados e desenvolvimento de dashboards em Python e PowerBI
 
-» Desenvolvimento de dashboards em PowerBI com tratamento de dados pelo PowerQuery
+» Modelagem e teste de algoritmos de aprendizagem com Tensorflow
 
-» Conhecimento em Excel e DAX
+» Desenvolvimento e manutenção de landing pages em HTML/CSS/JS
 
-» Básico de front-end em HTML/CSS/JS
+» Pesquisador na área de Inteligência Artificial Generativa e LLM’s aplicadas à educação, com artigo publicado na SBC OpenLib
 
 - - - - -
 
-» Design gráfico avançado em Photoshop há +6 anos
+» Design gráfico com Photoshop
 
-» Produção musical com FL Studio há +4 anos
+» Produção musical e SFX com FL Studio
 
 - - - - -
 
