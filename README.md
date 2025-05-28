@@ -1,4 +1,4 @@
-Undergraduate student in Data Science and Artificial Intelligence (7th semester) at Universidade Federal da Paraíba. Working as an AI engineer at the Technology, Research, and Innovation Lab (TRIL), participating in projects with Cebraspe. An active student and enthusiast of generative AI applied to data, with a focus on LLMOps and prompt engineering mainly using OpenAI models.
+Graduando em Ciência de Dados e Inteligência Artificial (7º período) pela Universidade Federal da Paraíba. Atuando como engenheiro de IA no Laboratório de Tecnologia, Pesquisa e Inovação (TRIL), participando de projetos com a Cebraspe. Estudante ativo e entusiasta de IA generativa aplicada a dados, com foco em LLMOps e engenharia de prompts, utilizando principalmente modelos da OpenAI.
 
 - - - - -
 
