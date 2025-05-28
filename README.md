@@ -2,7 +2,7 @@ Graduando em Ciência de Dados e Inteligência Artificial (7º período) pela Un
 
 - - - - -
 
-Articles:
+Trabalhos publicados:
 
 - [Surveying the Future of Computer and Data Science Education - Prospects and Pitfalls of Generative AI on Pedagogical Approaches](https://sol.sbc.org.br/index.php/wei/article/view/29652)
 
