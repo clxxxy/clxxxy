@@ -1,4 +1,4 @@
-Graduando em Ciência de Dados e Inteligência Artificial (7º período) pela Universidade Federal da Paraíba. Atuo como engenheiro de IA e no Laboratório de Tecnologia, Pesquisa e Inovação (TRIL), participando de projetos com a FICAMP e o Cebraspe. Estudante ativo e entusiasta de IA generativa aplicada a dados, com foco em LLMOps e engenharia de prompts, utilizando principalmente modelos OpenAI.
+Graduando em Ciência de Dados e Inteligência Artificial (7º período) pela Universidade Federal da Paraíba. Desenvolvedor de IA e Software na Ford, também atuo como desenvolver de IA e software no Laboratório de Tecnologia, Pesquisa e Inovação (TRIL), participando de projetos com o Cebraspe e a Ficamp. Estudante ativo e entusiasta de IA generativa aplicada a dados, com foco em LLMOps e engenharia de prompts, utilizando principalmente modelos OpenAI.
 
 - - - - -
 
