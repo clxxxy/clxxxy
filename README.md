@@ -1,9 +1,5 @@
-Graduando em Ciência de Dados e Inteligência Artificial (8º período) pela Universidade Federal da Paraíba. Iniciando na Ford como pesquisador desenvolvedor de IA. Atuando no Laboratório TRIL em projetos com o Cebraspe e a Ficamp como desenvolvedor. Estudante ativo e entusiasta de IA generativa aplicada a dados, com foco em LLMOps e engenharia de prompts, utilizando principalmente modelos OpenAI.
+Graduado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba. Desenvolvedor de IA na Ford Motor Company. 
 
 - - - - -
 
-Trabalhos publicados:
-
-- [Surveying the Future of Computer and Data Science Education - Prospects and Pitfalls of Generative AI on Pedagogical Approaches](https://sol.sbc.org.br/index.php/wei/article/view/29652)
-
-- [(Preprint) Assessing the Psychological Impact of Generative AI on Computer and Data Science Education: An Exploratory Study](https://www.preprints.org/manuscript/202312.0379/v2)
+Saiba mais no meu [Linkedin](https://www.linkedin.com/in/cleydsonjunior/)
