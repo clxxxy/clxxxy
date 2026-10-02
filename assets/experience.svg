@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1000 724" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experiência e formação — YAITEC Solutions, Ford Brasil, Ficamp, TRIL Lab, Cebraspe e UFPB">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
+  </style>
+
+  <line x1="120" y1="10" x2="120" y2="710" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+
+  <g class="rise a1">
+    <text class="mono" x="48" y="42" font-size="11" fill="var(--accent)" letter-spacing="1">09/2026</text>
+    <text class="mono" x="48" y="62" font-size="11" fill="var(--accent)" letter-spacing="1">atual</text>
+    <text class="mono" x="136" y="42" font-size="14" fill="var(--bone)">YAITEC Solutions · AI Engineer</text>
+    <text class="mono" x="136" y="68" font-size="15" fill="var(--muted)">Tempo integral · Remoto · João Pessoa, PB</text>
+    <text class="mono" x="136" y="90" font-size="14" fill="var(--muted)">Inteligência artificial e desenvolvimento de software.</text>
+  </g>
+
+  <g class="rise a2">
+    <text class="mono" x="48" y="154" font-size="11" fill="var(--accent)" letter-spacing="1">10/2025</text>
+    <text class="mono" x="48" y="174" font-size="11" fill="var(--accent)" letter-spacing="1">atual</text>
+    <text class="mono" x="136" y="154" font-size="14" fill="var(--bone)">Ford Brasil · AI Software Dev &amp; Researcher</text>
+    <text class="mono" x="136" y="180" font-size="15" fill="var(--muted)">Estágio · Remoto · Camaçari, BA</text>
+    <text class="mono" x="136" y="202" font-size="14" fill="var(--muted)">Plataforma multiagentes com LangChain e RAG para consulta e ação em bases internas.</text>
+    <text class="mono" x="136" y="224" font-size="14" fill="var(--muted)">Integração de LLMs com plataformas da organização e construção de automações.</text>
+  </g>
+
+  <g class="rise a3">
+    <text class="mono" x="48" y="278" font-size="11" fill="var(--accent)" letter-spacing="1">06/2025</text>
+    <text class="mono" x="48" y="298" font-size="11" fill="var(--accent)" letter-spacing="1">07/2026</text>
+    <text class="mono" x="136" y="278" font-size="14" fill="var(--bone)">Ficamp S/A · Python Developer</text>
+    <text class="mono" x="136" y="304" font-size="15" fill="var(--muted)">Estágio · Remoto · Alhandra, PB</text>
+    <text class="mono" x="136" y="326" font-size="14" fill="var(--muted)">Aplicação em Streamlit com dashboards e previsão de séries temporais via RANSACRegressor.</text>
+    <text class="mono" x="136" y="348" font-size="14" fill="var(--muted)">Integração com PostgreSQL, rankings, análises de cancelamentos e projeções comerciais.</text>
+  </g>
+
+  <g class="rise a4">
+    <text class="mono" x="48" y="402" font-size="11" fill="var(--accent)" letter-spacing="1">05/2025</text>
+    <text class="mono" x="48" y="422" font-size="11" fill="var(--accent)" letter-spacing="1">06/2026</text>
+    <text class="mono" x="136" y="402" font-size="14" fill="var(--bone)">TRIL Lab · AI Software Developer</text>
+    <text class="mono" x="136" y="428" font-size="15" fill="var(--muted)">Estágio · Híbrido · João Pessoa, PB</text>
+    <text class="mono" x="136" y="450" font-size="14" fill="var(--muted)">Desenvolvimento no Laboratório de Tecnologia, Pesquisa e Inovação do CI-UFPB.</text>
+    <text class="mono" x="136" y="472" font-size="14" fill="var(--muted)">Projetos com Cebraspe e Ficamp · LLMOps e engenharia de prompts.</text>
+  </g>
+
+  <g class="rise a5">
+    <text class="mono" x="48" y="526" font-size="11" fill="var(--accent)" letter-spacing="1">05/2025</text>
+    <text class="mono" x="48" y="546" font-size="11" fill="var(--accent)" letter-spacing="1">12/2025</text>
+    <text class="mono" x="136" y="526" font-size="14" fill="var(--bone)">Cebraspe · AI Developer</text>
+    <text class="mono" x="136" y="552" font-size="15" fill="var(--muted)">Aprendiz · Remoto · João Pessoa, PB</text>
+    <text class="mono" x="136" y="574" font-size="14" fill="var(--muted)">Desenvolvimento do agrupador de recursos do GabIA com pré-processamento de documentos.</text>
+    <text class="mono" x="136" y="596" font-size="14" fill="var(--muted)">Modelos OpenAI para analisar e agrupar recursos de provas e agilizar contestações de gabarito.</text>
+  </g>
+
+  <g class="rise a6">
+    <text class="mono" x="48" y="650" font-size="11" fill="var(--accent)" letter-spacing="1">08/2022</text>
+    <text class="mono" x="48" y="670" font-size="11" fill="var(--accent)" letter-spacing="1">08/2026</text>
+    <text class="mono" x="136" y="650" font-size="14" fill="var(--bone)">Universidade Federal da Paraíba</text>
+    <text class="mono" x="136" y="676" font-size="15" fill="var(--muted)">Bacharelado em Ciência de Dados e Inteligência Artificial</text>
+    <text class="mono" x="136" y="698" font-size="14" fill="var(--muted)">Graduado.</text>
+  </g>
+
+</svg>
