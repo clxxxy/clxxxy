@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projetos de Cleydson Junior — sound design para Frail Dark e pesquisa sobre LLMs na educação">
+<svg viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" lang="pt-BR" aria-label="Projetos de Cleydson Junior — design de áudio para Frail Dark e pesquisa sobre LLMs na educação">
   <style>
     :root { --ink:#000000; --paper:#FFFFFF; }
     @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
@@ -20,16 +20,16 @@
     <g class="row r1" transform="translate(0 20)">
       <text class="title" x="48" y="24">01 / FRAIL DARK — REONION STUDIOS</text>
       <text class="meta" x="950" y="24" text-anchor="end">abr. 2025 — mai. 2025</text>
-      <text class="copy" x="48" y="49">Freelancer na criação de músicas e efeitos sonoros para o jogo independente Frail Dark.</text>
+      <text class="copy" x="48" y="49">Trabalho autônomo na criação de músicas e efeitos sonoros para o jogo independente Frail Dark.</text>
       <text class="copy" x="48" y="68">Circuito Game Dev Quest, promovido pela SECTIES/PB em parceria com a FAPESQ/PB.</text>
-      <text class="meta" x="48" y="87">SOUND DESIGN · MÚSICAS E EFEITOS SONOROS · REONION STUDIOS</text>
+      <text class="meta" x="48" y="87">DESIGN DE ÁUDIO · MÚSICAS E EFEITOS SONOROS · REONION STUDIOS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 144)">
       <text class="title" x="48" y="24">02 / LLMS NA FORMAÇÃO DE ALUNOS DE TI</text>
       <text class="meta" x="950" y="24" text-anchor="end">jul. 2023 — jul. 2024</text>
       <text class="copy" x="48" y="49">Pesquisador bolsista em projeto de extensão da UFPB sobre o impacto das LLMs na formação de alunos de TI.</text>
-      <text class="copy" x="48" y="68">Survey e revisão bibliográfica sobre o uso de IA generativa nas rotinas de estudo dos alunos do CI-UFPB.</text>
+      <text class="copy" x="48" y="68">Pesquisa por questionário e revisão bibliográfica sobre o uso de IA generativa nos estudos dos alunos do CI-UFPB.</text>
       <text class="copy" x="48" y="87">Resultados apresentados no WEI 2024, durante o CSBC 2024, com artigo publicado na SBC-OpenLib.</text>
       <text class="meta" x="48" y="106">PESQUISA ACADÊMICA · IA NA EDUCAÇÃO · APRESENTAÇÃO DE ARTIGO · UFPB</text>
       <line class="rule" x1="48" y1="123" x2="952" y2="123"/>
